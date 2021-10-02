@@ -1,12 +1,12 @@
 
 # Hi 👋 I'm vichShir
 
-![](https://visitor-badge.laobi.icu/badge?page_id=vichShir.vichShir) [![Github](https://img.shields.io/github/followers/vichShir?label=Follow&style=social)](https://github.com/vichShir)
+[![Github](https://img.shields.io/github/followers/vichShir?label=Follow&style=social)](https://github.com/vichShir)
 
 ## 🎓 I'm an Information Systems student at UNICAMP
 - 🌱 I’m currently learning data analysis with Python
 - 🧰 Main Tools: Jupyter Notebook and Python
-- 🎸 Fun Fact: I play bass guitar and develop some 2D games
+- 🎸 Fun Fact: I play bass guitar and develop some [2D games](https://play.google.com/store/apps/developer?id=Krabify+Game+Studios&hl=pt_BR&gl=US)
 
 ## ✉️ Find me on:
 [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vichShir) [![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v245155@dac.unicamp.br) [![Kaggle URL](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vichshir)
