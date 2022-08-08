@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/vichShir?label=Follow&style=social)](https://github.com/vichShir)
 
 ## 🎓 I'm an Information Systems student at Unicamp
-- 🌱 I’m currently learning AI and Machine Learning algorithms
+- 🌱 I’m currently learning Natural Language Processing (NLP)
 - 🧰 Main Tools: Python
 - 🎸 Fun Fact: I play bass guitar and I develop some [2D games](https://play.google.com/store/apps/developer?id=Krabify+Game+Studios&hl=pt_BR&gl=US) for Android
 
