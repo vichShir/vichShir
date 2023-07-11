@@ -2,8 +2,8 @@
 # Hi 👋 I'm vichShir
 
 ## 🎓 I'm an Information Systems student at Unicamp
-- 🌱 I’m currently learning Computer Vision with TensorFlow
-- 🧰 Main Tools: JupyterLab
+- 🌱 I’m currently learning Deep Learning with PyTorch
+- 🧰 Main Tools: Jupyter Notebook, TensorFlow
 - 🎸 Fun Fact: I like to play bass guitar and I've developed some [2D mobile games](https://play.google.com/store/apps/developer?id=Krabify+Game+Studios&hl=pt_BR&gl=US) for Android
 
 ## ✉️ Find me on:
